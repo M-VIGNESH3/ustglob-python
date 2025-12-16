@@ -1,2 +1,3 @@
 print("vignesh")
-prinbt("loves 83")
+print("loves 83")
+print("86 loves 83")
