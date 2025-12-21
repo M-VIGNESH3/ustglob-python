@@ -1,0 +1,29 @@
+Assignment-3:
+
+submission date : 25th Dec 2025
+================================
+
+Map (5 Coding Questions)
+
+Write a Python program using map() to convert a list of integers into their squares.
+
+Write a program using map() to convert all strings in a list to uppercase.
+
+Given a list of temperatures in Celsius, use map() to convert them to Fahrenheit.
+
+Write a program using map() to calculate the length of each word in a list of strings.
+
+Use map() to add 10 to each element of a given list of numbers.
+
+
+Filter (5 Coding Questions)
+
+Write a Python program using filter() to extract all even numbers from a list.
+
+Write a program using filter() to select all words from a list that start with a vowel.
+
+Given a list of integers, use filter() to remove all negative numbers.
+
+Write a program using filter() to find numbers greater than 50 from a list.
+
+Use filter() to extract all palindromic strings from a list.
