@@ -1,0 +1,29 @@
+Assignment-4
+Submission Date : 30th Dec 2025
+Upload in GitHub
+
+
+
+Exception Handling (5 Coding Questions)
+
+Write a Python program to handle a ZeroDivisionError.
+
+Write a program that accepts user input and handles a ValueError if the input is not an integer.
+
+Write a program to open a file and handle a FileNotFoundError.
+
+Write a Python program that uses try, except, else, and finally blocks.
+
+Write a program to handle multiple exceptions in a single try block.
+
+Text Files (5 Coding Questions)
+
+Write a Python program to create a text file and write multiple lines into it.
+
+Write a program to read the contents of a text file line by line.
+
+Write a Python program to count the number of lines, words, and characters in a text file.
+
+Write a program to copy the contents of one text file into another file.
+
+Write a Python program to search for a specific word in a text file and display the line numbers where it appears.
