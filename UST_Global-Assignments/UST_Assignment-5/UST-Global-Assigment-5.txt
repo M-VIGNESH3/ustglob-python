@@ -1,0 +1,26 @@
+Assignment-5:
+Module : SQL
+Submission Date   : 5th Jan 2026 
+
+
+1.Write an SQL query to display the second highest salary from an Employees table.
+
+2.Given a table Orders(order_id, customer_id, order_date, amount), write a query to find the total order amount per customer, 
+  but display only customers whose total exceeds 50,000.
+
+3.Write an SQL query to find the number of employees in each department, excluding departments with fewer than 3 employees.
+
+4.Given tables Students(student_id, name) and Marks(student_id, subject, marks), write a query to find students who have scored more than 80 in at least two subjects.
+
+5.Write an SQL query to retrieve the names of employees who earn more than the average salary of their department.
+
+6.Given a table Sales(sale_id, product_id, sale_date, quantity), write a query to find the total quantity sold for each product in the year 2024.
+
+7.Write an SQL query to display the top 3 highest-paid employees from each department.
+
+8.Given a table Customers(customer_id, customer_name, city), write a query to find cities that have more than 5 customers.
+
+9.Write an SQL query to find employees who do not have any records in the Attendance table.
+
+10.Given a table Employees(employee_id, name, manager_id), write an SQL query to display each employee’s name along with their manager’s name.
+
