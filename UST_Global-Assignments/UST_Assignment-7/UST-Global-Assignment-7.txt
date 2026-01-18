@@ -1,0 +1,92 @@
+FastAPI Assignment – Simple Bookstore API
+
+Scenario
+
+You are building a REST API for a small bookstore. The API should allow users to:
+
+View all books
+
+View a specific book by ID
+
+Add a new book
+
+Update a book
+
+Delete a book
+
+Part 1: Setup
+
+Install FastAPI and Uvicorn:
+
+pip install fastapi uvicorn
+
+
+Create a Python file called main.py.
+
+Part 2: API Requirements
+
+Data Model
+
+Use an in-memory list of dictionaries to store book data (no database needed for simplicity):
+
+books = [
+    {"id": 1, "title": "The Alchemist", "author": "Paulo Coelho"},
+    {"id": 2, "title": "1984", "author": "George Orwell"},
+]
+
+Endpoints
+
+Get all books
+
+Method: GET
+
+Path: /books
+
+Response: List of all books
+
+Get book by ID
+
+Method: GET
+
+Path: /books/{book_id}
+
+Response: Book with the given ID
+
+Add a new book
+
+Method: POST
+
+Path: /books
+
+Request Body: JSON with id, title, author
+
+Response: Newly added book
+
+Update a book
+
+Method: PUT
+
+Path: /books/{book_id}
+
+Request Body: JSON with title, author
+
+Response: Updated book
+
+Delete a book
+
+Method: DELETE
+
+Path: /books/{book_id}
+
+Response: Success message
+
+ Running the API
+
+Run the FastAPI server:
+
+uvicorn main:app --reload
+
+
+Open browser: http://127.0.0.1:8000/docs to see interactive API documentation.
+
+Test all endpoints 
